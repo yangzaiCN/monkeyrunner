@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.tools:common:23.2.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/23.2.8/b275f9ae56a2de4ad3ed50f49d15a07cb2032639/common-23.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/23.2.8/2f10fce2f4775b93af933a7bbb8ff40b9a8b9dcb/common-23.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

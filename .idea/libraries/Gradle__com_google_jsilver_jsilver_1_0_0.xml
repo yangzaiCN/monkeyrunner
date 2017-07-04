@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.jsilver:jsilver:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jsilver/jsilver/1.0.0/eababfecec13732a19e854de2c5d63d6fdf22074/jsilver-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jsilver/jsilver/1.0.0/baa103b539c6bc37795bee27d7f1f5ec8a9018ce/jsilver-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
